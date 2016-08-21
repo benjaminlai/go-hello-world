@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/BLaii/go-hello-world",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/BLaii/go-stringutil",
+			"Rev": "bb1e7b8765988327d56053154ddda97eed8d035e"
+		}
+	]
+}
