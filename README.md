@@ -1,3 +1,3 @@
-Basic GO hello world app
+Basic go hello world app
 ========================
 As per Go startup guide
